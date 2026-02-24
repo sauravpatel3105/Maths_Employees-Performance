@@ -1,8 +1,3 @@
-Here is a **clean, professional README file** you can use directly.
-You can **copy–paste this into `README.md`** (exam-ready + project-ready).
-
----
-
 #Employee Performance Analysis Project
 
 ## Project Overview
